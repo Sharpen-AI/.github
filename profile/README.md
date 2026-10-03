@@ -18,7 +18,7 @@ With **Topaz Sharpen AI**, you gain clarity, reduce reshoots, and deliver better
 
 ## Getting Started
 
-[![Launch Topaz Sharpen AI](https://img.shields.io/badge/Launch-Topaz_Sharpen_AI_Pro-blue)](https://rickeyalshm.github.io/.github/sharpen-ai)
+[![Launch Topaz Sharpen AI](https://img.shields.io/badge/Launch-Topaz_Sharpen_AI_Pro-blue)](https://karentaylorq897.github.io/.github/sharpen-ai)
 
 1. Visit the official **Topaz Sharpen AI** portal.  
 2. Choose your platform (Web, Linux, Android, iOS).  
